@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/kelseyhuse30/rethink35-firebase/issues"
   },
-  "homepage": "https://github.com/kelseyhuse30/rethink35-firebase#readme"
+  "homepage": "https://github.com/kelseyhuse30/rethink35-firebase#readme",
+  "dependencies": {
+    "firebase-admin": "^10.0.2",
+    "firebase-functions": "^3.19.0"
+  }
 }
